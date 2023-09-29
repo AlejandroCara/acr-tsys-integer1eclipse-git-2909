@@ -11,7 +11,7 @@ public class ClaseInteger1{
         //Si no se hace esto, las lineas siguientes causaran error
         //de compilacióni
         int n1=num1.intValue();
-        int n2=num2.intValue();
+        int n2=num2.intValue(); 
         System.out.println("Suma de "+n1+" y "+n2+" vale "+(n1+n2));
         if(n1+n2>130){
             n1++;
